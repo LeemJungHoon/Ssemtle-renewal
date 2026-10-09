@@ -63,12 +63,27 @@
 
 <img width="1255" height="497" alt="화면 캡처 2025-10-07 150548" src="https://github.com/user-attachments/assets/b010b8e4-8204-4049-b5e8-e6f21742a1fd" />
 
+- **Framework:** Next.js, React
+- **Language:** TypeScript
+- **Database:** PostgreSQL
+- **ORM:** Prisma, Drizzle ORM
+- **Database Tool:** DBeaver
+- **Styling:** Tailwind CSS
+- **State Management:** TanStack Query
+- **Animation:** Motion
+- **Authentication:** Clerk
+- **Math Rendering:** KaTeX
+- **Syntax Highlighting:** Shiki
+- **Icons:** Heroicons, React Icons
+- **Code Quality:** ESLint
+- **Package Manager:** npm
+
 <br/>
 <br/>
 
 ## 📄Figma
 
-[Figma Link](https://www.figma.com/file/QISBhhxPuj1rMK7CMggSUS/%EC%97%98%EB%A6%AC%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2%EC%B0%A8?type=design&mode=design](https://www.figma.com/design/bgJiNNHlTyE6MrOLQLEw3k/%ED%8C%80%EC%8B%B9%EC%88%98%EB%AA%A8%EC%97%AC%EB%9D%BC?node-id=0-1&t=blt1SjjzvzlM3IoP-0))
+[Figma Link](https://www.figma.com/design/bgJiNNHlTyE6MrOLQLEw3k/%25ED%258C%2580%25EC%258B%25B9%25EC%2588%2598%25EB%25AA%25A8%25EC%2597%25AC%25EB%259D%25BC?node-id=0-1&p=f&t=LeXEJE7tOi2tNHdu-0)
 
 <br/>
 <br/>
@@ -255,29 +270,6 @@ DB의 unit 목록에서 해당 unitId의 학습 도움용 영상 URL을 렌더�
 - 과목 정보 수정, 과목 데이터 변경 시 폼 상태 자동 동기화
 - 과목 삭제, 삭제 확인 모달 제공, 실수 삭제 방지 및 처리 중 상태 버튼 비활성화 
 
-
-<br/>
-
-###  000
-
-[PC] 
-[Mobile]
-
-<br/>
-
-###  000
-
-[PC] 
-[Mobile]
-
-<br/>
-
-###  000
-
-[PC] 
-[Mobile]
-
-<br/>
 
 ## 💁팀원 소개 및 역할
 
